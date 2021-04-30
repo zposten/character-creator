@@ -1,2 +1,5 @@
 .buttonRow {
+    overflow-x: auto;
+    display: flex;
+    padding: 10px 0;
 }
